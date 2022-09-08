@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\DelCodingSoBad\bin\Debug\net6.0\DelCodingSoBad.exe
+C:\Users\ASUS\Desktop\DelCodingSoBad\bin\Debug\net6.0\DelCodingSoBad.deps.json
+C:\Users\ASUS\Desktop\DelCodingSoBad\bin\Debug\net6.0\DelCodingSoBad.runtimeconfig.json
+C:\Users\ASUS\Desktop\DelCodingSoBad\bin\Debug\net6.0\DelCodingSoBad.dll
+C:\Users\ASUS\Desktop\DelCodingSoBad\bin\Debug\net6.0\DelCodingSoBad.pdb
+C:\Users\ASUS\Desktop\DelCodingSoBad\obj\Debug\net6.0\DelCodingSoBad.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\DelCodingSoBad\obj\Debug\net6.0\DelCodingSoBad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\DelCodingSoBad\obj\Debug\net6.0\DelCodingSoBad.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\DelCodingSoBad\obj\Debug\net6.0\DelCodingSoBad.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\DelCodingSoBad\obj\Debug\net6.0\DelCodingSoBad.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DelCodingSoBad\obj\Debug\net6.0\DelCodingSoBad.dll
+C:\Users\ASUS\Desktop\DelCodingSoBad\obj\Debug\net6.0\refint\DelCodingSoBad.dll
+C:\Users\ASUS\Desktop\DelCodingSoBad\obj\Debug\net6.0\DelCodingSoBad.pdb
+C:\Users\ASUS\Desktop\DelCodingSoBad\obj\Debug\net6.0\DelCodingSoBad.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\DelCodingSoBad\obj\Debug\net6.0\ref\DelCodingSoBad.dll
